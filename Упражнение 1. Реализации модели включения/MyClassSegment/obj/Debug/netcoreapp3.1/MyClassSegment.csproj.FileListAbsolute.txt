@@ -1,0 +1,14 @@
+D:\Studies\1 курс\2 семестр\Процессы разработки программного обеспечения\Тема 3. Создание иерархии классов (часть 2)\Упражнение\MyClassSegment\bin\Debug\netcoreapp3.1\MyClassSegment.exe
+D:\Studies\1 курс\2 семестр\Процессы разработки программного обеспечения\Тема 3. Создание иерархии классов (часть 2)\Упражнение\MyClassSegment\bin\Debug\netcoreapp3.1\MyClassSegment.deps.json
+D:\Studies\1 курс\2 семестр\Процессы разработки программного обеспечения\Тема 3. Создание иерархии классов (часть 2)\Упражнение\MyClassSegment\bin\Debug\netcoreapp3.1\MyClassSegment.runtimeconfig.json
+D:\Studies\1 курс\2 семестр\Процессы разработки программного обеспечения\Тема 3. Создание иерархии классов (часть 2)\Упражнение\MyClassSegment\bin\Debug\netcoreapp3.1\MyClassSegment.runtimeconfig.dev.json
+D:\Studies\1 курс\2 семестр\Процессы разработки программного обеспечения\Тема 3. Создание иерархии классов (часть 2)\Упражнение\MyClassSegment\bin\Debug\netcoreapp3.1\MyClassSegment.dll
+D:\Studies\1 курс\2 семестр\Процессы разработки программного обеспечения\Тема 3. Создание иерархии классов (часть 2)\Упражнение\MyClassSegment\bin\Debug\netcoreapp3.1\MyClassSegment.pdb
+D:\Studies\1 курс\2 семестр\Процессы разработки программного обеспечения\Тема 3. Создание иерархии классов (часть 2)\Упражнение\MyClassSegment\obj\Debug\netcoreapp3.1\MyClassSegment.csproj.AssemblyReference.cache
+D:\Studies\1 курс\2 семестр\Процессы разработки программного обеспечения\Тема 3. Создание иерархии классов (часть 2)\Упражнение\MyClassSegment\obj\Debug\netcoreapp3.1\MyClassSegment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studies\1 курс\2 семестр\Процессы разработки программного обеспечения\Тема 3. Создание иерархии классов (часть 2)\Упражнение\MyClassSegment\obj\Debug\netcoreapp3.1\MyClassSegment.AssemblyInfoInputs.cache
+D:\Studies\1 курс\2 семестр\Процессы разработки программного обеспечения\Тема 3. Создание иерархии классов (часть 2)\Упражнение\MyClassSegment\obj\Debug\netcoreapp3.1\MyClassSegment.AssemblyInfo.cs
+D:\Studies\1 курс\2 семестр\Процессы разработки программного обеспечения\Тема 3. Создание иерархии классов (часть 2)\Упражнение\MyClassSegment\obj\Debug\netcoreapp3.1\MyClassSegment.csproj.CoreCompileInputs.cache
+D:\Studies\1 курс\2 семестр\Процессы разработки программного обеспечения\Тема 3. Создание иерархии классов (часть 2)\Упражнение\MyClassSegment\obj\Debug\netcoreapp3.1\MyClassSegment.dll
+D:\Studies\1 курс\2 семестр\Процессы разработки программного обеспечения\Тема 3. Создание иерархии классов (часть 2)\Упражнение\MyClassSegment\obj\Debug\netcoreapp3.1\MyClassSegment.pdb
+D:\Studies\1 курс\2 семестр\Процессы разработки программного обеспечения\Тема 3. Создание иерархии классов (часть 2)\Упражнение\MyClassSegment\obj\Debug\netcoreapp3.1\MyClassSegment.genruntimeconfig.cache
